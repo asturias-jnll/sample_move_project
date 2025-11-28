@@ -1,0 +1,5 @@
+Failed to build Move modules: Failed to resolve dependencies for package 'hello_world'
+
+Caused by:
+    0: Parsing manifest for 'Sui'
+    1: No such file or directory (os error 2).
